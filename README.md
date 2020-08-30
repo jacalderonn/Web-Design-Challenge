@@ -1,6 +1,7 @@
-# Project Title
+# Web Design Challenge
 
 One Paragraph of project description goes here
+The site can be seen here: https://jacalderonn.github.io/Web-Design-Challenge/
 
 ## Getting Started
 

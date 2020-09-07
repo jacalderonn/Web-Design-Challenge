@@ -13,8 +13,8 @@ The data obtained fron the API was the latitude and longitude of the city, its m
 * Pandas
 * Matplotlib
 
-<img src="images/Pag_1.png" alt="img1" width="600">
+<img src="images/pag_1.png" alt="img1" width="600">
 
-<img src="images/Pag_2.png" alt="img1" width="600">
+<img src="images/pag_2.png" alt="img2" width="600">
 
-<img src="images/Pag_3.png" alt="img1" width="600">
+<img src="images/pag_3.png" alt="img3" width="600">
